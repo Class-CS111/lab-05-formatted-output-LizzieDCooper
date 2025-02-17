@@ -1,5 +1,6 @@
-// COLLABORATORS: <tutors, instructor, or anyone else who helped you>
-
+//STUDENT NAME: Lizzie Cooper
+// COLLABORATORS: N/A
+//DATE: 2/16/25
 // DESCRIPTION: <a sentence about what the purpose of this program is>
 
 public class Main
